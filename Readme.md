@@ -16,7 +16,7 @@ Belajar di [BWA](https://www.buildwithangga.com/)
 
 - [x] Section
 - [x] Navigation
-- [ ] Footer
+- [x] Footer
 - [ ] DIV grouping
 - [ ] Table Design
 - [ ] Form Input Type
