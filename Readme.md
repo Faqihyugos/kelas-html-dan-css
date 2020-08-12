@@ -1,6 +1,6 @@
 # Belajar HTML dan CSS
 
-Belajar di https://www.buildwithangga.com/
+Belajar di [BWA](https://www.buildwithangga.com/)
 
 ## warm up
 
@@ -15,12 +15,12 @@ Belajar di https://www.buildwithangga.com/
 ## Website Layout
 
 - [x] Section
-- [] Navigation
-- [] Footer
-- [] DIV grouping
-- [] Table Design
-- [] Form Input Type
-- [] Button dan Form Action
-- [] Progress Bar
-- [] Color
-- [] Text Formatting
+- [x] Navigation
+- [ ] Footer
+- [ ] DIV grouping
+- [ ] Table Design
+- [ ] Form Input Type
+- [ ] Button dan Form Action
+- [ ] Progress Bar
+- [ ] Color
+- [ ] Text Formatting
