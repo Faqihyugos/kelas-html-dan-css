@@ -19,8 +19,8 @@ Belajar di [BWA](https://www.buildwithangga.com/)
 - [x] Footer
 - [x] DIV grouping
 - [X] Table Design
-- [ ] Form Input Type
-- [ ] Button dan Form Action
-- [ ] Progress Bar
-- [ ] Color
-- [ ] Text Formatting
+- [x] Form Input Type
+- [x] Button dan Form Action
+- [x] Progress Bar
+- [x] Color
+- [x] Text Formatting
